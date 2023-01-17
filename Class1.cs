@@ -40,7 +40,4 @@ using System.Linq;
             teamName = name;
         }
     }
-    public static void Main(String[] args)
-    {
-    }
-}
+   
